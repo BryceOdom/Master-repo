@@ -1,0 +1,14 @@
+{"timestamp":366128,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","branch":"control","experiment":"add-an-image-to-pdf-with-alt-text-rollout"}}
+{"timestamp":366150,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"awesome-bar-result-menu-rollout-phase-1","branch":"control-rollout","experiment_type":"rollout"}}
+{"timestamp":366239,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","branch":"enable-csv-import","experiment":"csv-import-release-rollout"}}
+{"timestamp":366298,"category":"nimbus_events","name":"enrollment","extra":{"branch":"rollout","experiment_type":"rollout","experiment":"ech-roll-out"}}
+{"timestamp":366596,"category":"nimbus_events","name":"enrollment","extra":{"branch":"treatment-a","experiment_type":"rollout","experiment":"fox-doodle-set-to-default-early-day-user-en-treatment-a-rollout"}}
+{"timestamp":366620,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"mozillaaccounts-toolbar-button-default-visibility-existing-user","branch":"treatment-a","experiment_type":"rollout"}}
+{"timestamp":366645,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"product-insight-telemetry-via-server-knobs-rollout-release","experiment_type":"rollout","branch":"control-rollout"}}
+{"timestamp":366939,"category":"nimbus_events","name":"enroll_failed","extra":{"experiment":"release-experiment-for-additional-metrics-for-product-insights-rollout","reason":"feature-conflict"}}
+{"timestamp":367014,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","branch":"treatment","experiment":"upgrade-spotlight-rollout"}}
+{"timestamp":367041,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","experiment":"mixed-content-level-2-roll-out-release-115","branch":"control"}}
+{"timestamp":367101,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","branch":"rollout","experiment":"phc-rollout"}}
+{"timestamp":367157,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","experiment":"pocket-newtab-3rd-sponsored-tile-rollout","branch":"control"}}
+{"timestamp":367354,"category":"nimbus_events","name":"enrollment","extra":{"branch":"delivery","experiment":"long-term-holdback-2024-h1-velocity-desktop","experiment_type":"nimbus"}}
+{"timestamp":8186854,"category":"nimbus_events","name":"enroll_failed","extra":{"reason":"feature-conflict","experiment":"release-experiment-for-additional-metrics-for-product-insights-rollout"}}

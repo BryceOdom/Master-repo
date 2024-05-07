@@ -1,0 +1,8 @@
+[user]
+	name = BryceOdom
+	email = bodom5@student.cccs.edu
+[credential]
+	helper = store
+[credential "github.com"]
+	username = BryceOdom
+	password = bodom5@student.cccs.edu
